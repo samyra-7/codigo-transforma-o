@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(237, 235, 235);
+}
+
+ol{
+   font-style: italic;
+   color: blue;
+   font-size: 100%;
+   position: relative;
+   left:50vw;
+}
